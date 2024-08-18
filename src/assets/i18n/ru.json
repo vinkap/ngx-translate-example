@@ -1,0 +1,6 @@
+{
+	"page.buttons.primary": "Да",
+	"page.buttons.secondary": "Нет",
+	"page.subTitle": "Это английский абзац.",
+	"page.title": "Привет {{name}}"
+}

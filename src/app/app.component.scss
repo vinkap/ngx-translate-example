@@ -1,0 +1,52 @@
+:host {
+    ::ng-deep {
+        //         display: flex;
+        //         flex-direction: column;
+        //         flex: 1 1 auto;
+        //     }
+        // }
+        
+        // Target the body element
+        div {
+            // Set background color
+            background-color: #e1e1ec;
+        }
+        
+        // Target the header element (assuming it contains the title)
+        // header {
+
+            // Set font size and style for the title
+            h1 {
+                font-size: 32px;
+                font-weight: bold;
+                margin-bottom: 10px;
+                color: #ff0000;
+            }
+        // }
+
+        // Target paragraph elements
+        p {
+            // Set font family, size, and color
+            font-family: Arial, sans-serif;
+            font-size: 18px;
+            color: #666;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+
+        // Target button elements
+        button, select {
+            // Set background color and hover effect
+            background-color: #4CAF50;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+
+            &:hover {
+                background-color: #3e8e41;
+            }
+        }
+
+    }
+}

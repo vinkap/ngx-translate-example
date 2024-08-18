@@ -1,0 +1,6 @@
+{
+	"page.buttons.primary": "Yes",
+	"page.buttons.secondary": "No",
+	"page.subTitle": "This is a english paragraph",
+	"page.title": "Hello {{name}}"
+}
